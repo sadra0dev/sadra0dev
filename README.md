@@ -1,16 +1,22 @@
-<link rel="stylesheet" href="github-markdown.css">
-<img src='test.svg' class="sadra0dev-img" />
-<div class="test">
-test
-</div>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
 
-- 👋 Hi, I’m @sadra0dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+    @media (max-width: 767px) {
+    	.markdown-body {
+    		padding: 15px;
+    	}
+    }
 
-<!---
-sadra0dev/sadra0dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</style>
+<article class="markdown-body">
+	<h1>Unicorns</h1>
+	<p>All the things</p>
+</article>
