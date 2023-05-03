@@ -1,4 +1,4 @@
-![alt text](test.svg)
+![alt text](1024*200)(test.svg)
 
 - 👋 Hi, I’m @sadra0dev
 - 👀 I’m interested in ...
