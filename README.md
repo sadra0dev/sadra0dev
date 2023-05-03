@@ -1,10 +1,10 @@
 
 <img src="/test.svg" class="sadra0dev-img"/>
-<style>
+<div><style>
   .sadra0dev-img{
   height:600px;
   }
- </style>
+ </style></div>
 - 👋 Hi, I’m @sadra0dev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
