@@ -1,10 +1,10 @@
-<img src='/test.svg' class="sadra0dev-img" />
+<img src='test.svg' class="sadra0dev-img" />
 <div class="test">
 <style>
 .test{
     height:40px;
     background-color:white;
-    
+
 }
 </style>
 
