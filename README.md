@@ -1,14 +1,6 @@
+<link rel="stylesheet" href="github-markdown.css">
 <img src='test.svg' class="sadra0dev-img" />
-<div class="test">
-<style>
-.test{
-    height:40px;
-    background-color:white;
-
-}
-</style>
-
-</div>
+<div class="test"></div>
 
 - 👋 Hi, I’m @sadra0dev
 - 👀 I’m interested in ...
