@@ -1,5 +1,5 @@
 
-<img src='/test.svg' class="sadra0dev-img" style="height:600px;" />
+<img src='/test.svg' class="sadra0dev-img" />
 
 - 👋 Hi, I’m @sadra0dev
 - 👀 I’m interested in ...
