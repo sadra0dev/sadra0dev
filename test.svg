@@ -1,36 +1,50 @@
 <svg
-    viewBox="0 0 100% 100%"
-    xmlns="http://www.w3.org/2000/svg"
-    width="1024"
-    height="200"
-    style="background-color: rgba(0, 0, 0, 0.2); position: relative"
-  >
-    <rect width="100%" height="100%" style="fill: transparent" />
+  viewBox="0 0 100% 100%"
+  xmlns="http://www.w3.org/2000/svg"
+  width="100dp"
+  height="100dp"
+  class="sadra0dev-svg"
+>
 
-    <style>
-      div {
-        color: red;
-        font: 18px serif;
-        height: 100%;
-        overflow: auto;
-      }
-      @media (min-width: 600px) {
-        div {
-          color: green;
-        }
-      }
-      @media (min-width: 1024px) {
-        div {
-          color: black;
-        }
-      }
-    </style>
+<style>
+  foreignObject{
+    background:rgba(0, 0, 0, 0.20);
+  }
+  div {
+    animation-name: test;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    color: red;
+    font: 1.5rem serif;
+    height: 100%;
+    width:100%;
+    display:flex;
+    align-items:center; 
+    justify-content:center;
+    padding:10px;
+  }
+  @media (min-width: 600px) {
+    div {
+      color: green;
+    }
+  }
+  @media (min-width: 1024px) {
+    div {
+      color: black;
+    }
+  }
+  @keyframes test{
+    0%{transform:scale(1);}
+    50%{transform:scale(1.01);}
+    0%{transform:scale(1);}
+  }
+</style>
+  <foreignObject x="0" y="0" width="100%" height="100%" >
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
+      mollis mi ut ultricies. Nullam magna ipsum, porta vel dui convallis,
+      rutrum imperdiet eros. Aliquam erat volutpat.
+    </div>
+  </foreignObject>
 
-    <foreignObject x="0" y="0" width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
-        mollis mi ut ultricies. Nullam magna ipsum, porta vel dui convallis,
-        rutrum imperdiet eros. Aliquam erat volutpat.
-      </div>
-    </foreignObject>
-  </svg>
+</svg>
