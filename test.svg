@@ -43,6 +43,9 @@
       font-size:10px;
     }
   }
+  .logo-dark,.logo-light{
+    width:100%;
+  }
   .container {
     font-size: 5px;
     height: 100%;
@@ -130,7 +133,7 @@
   .logo{
     font-size: 1em;
     position: absolute;
-    width: 55em;
+    width: 45em;
     overflow: hidden;
     display: flex;
   }
@@ -143,9 +146,6 @@
     animation-iteration-count: infinite;
     animation-duration: 50s;
     animation-delay: 15s;
-  }
-  .logo-dark,.logo-light{
-    width:55em;
   }
   .social-icons{
     font-size: 2em;
