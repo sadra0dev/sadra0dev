@@ -13,7 +13,7 @@
     background: transparent;
   }
   @media (prefers-color-scheme: dark) {
-    .logo .content{background-color: #0d1117;}
+    .logo .content{background-color: currentColor;}
     .github-dark{display: none;}
     .github-light{display: inline-block;}
     .logo-light{display: block;}
@@ -27,7 +27,7 @@
     .h2{color: #fff;}
   }
   @media (prefers-color-scheme: light) {
-    .logo .content{background-color: #fff;}
+    .logo .content{background-color:currentColor;}
     .github-dark{display: inline-block;}
     .github-light{display: none;}
     .logo-light{display: none;}
