@@ -9,7 +9,6 @@
 
   :root{
     --w-main:250px;
-    --h-main: --w-main;
     --fs-main: 4px;
   }
   
@@ -62,7 +61,7 @@
   }
   .sadra0dev-svg{
     font-size:var(--fs-main);
-    height:var(--h-main);
+    height:var(--w-main);
   }
   foreignObject {
     position:relative;
