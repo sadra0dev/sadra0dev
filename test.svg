@@ -11,6 +11,7 @@
     --w-main:250px;
     --fs-main: 4px;
   }
+  
   @media (prefers-color-scheme: dark) {
     <!-- .logo .content{background-color: currentColor;} -->
     .github-dark{display: none;}
@@ -38,6 +39,12 @@
     .next{color: #0d1117;}
     .wp{color: #0d1117;}
     .h2{color: #0d1117;}
+  }
+  @media (min-width:280px){
+  :root{
+      --w-main:260px;
+      --fs-main: 5px;
+    }
   }
   .sadra0dev-svg{
     font-size:var(--fs-main);
