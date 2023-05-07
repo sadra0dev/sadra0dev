@@ -60,7 +60,7 @@
     height:100%;
   }
   .logo-dark,.logo-light{
-    width:var(--w-main);
+    width:100%;
   }
   .container {
     width:calc(var(--w-main) * 2);
@@ -152,7 +152,10 @@
   }
   .logo{
     width:var(--w-main);
+    padding-left: 10px;
+    padding-right: 10px;
     font-size: 1rem;
+    box-sizing: border-box;
     overflow: hidden;
   }
   .social-icons{
