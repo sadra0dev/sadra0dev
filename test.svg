@@ -46,6 +46,18 @@
       --fs-main: 5px;
     }
   }
+  @media (min-width:320px){
+  :root{
+      --w-main:280px;
+      --fs-main: 6px;
+    }
+  }
+  @media (min-width:500px){
+  :root{
+      --w-main:440px;
+      --fs-main: 10px;
+    }
+  }
   .sadra0dev-svg{
     font-size:var(--fs-main);
   }
