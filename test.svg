@@ -55,7 +55,7 @@
   @media (min-width:500px){
   :root{
       --w-main:440px;
-      --fs-main: 10px;
+      --fs-main: 8px;
     }
   }
   .sadra0dev-svg{
